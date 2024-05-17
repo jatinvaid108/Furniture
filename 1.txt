@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Let's Create A conflict . I am writing this on local .
+=======
+Hello i am writing this onn github to create conflict.
+>>>>>>> 0d8c2062aeb0636f1eeaf62ab38e0bf9eede49da
